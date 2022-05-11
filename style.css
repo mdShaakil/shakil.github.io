@@ -1,0 +1,14 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+ .banner-container{
+     background-color: rgb(168, 206, 245) ;
+ }
+ .banner-column{
+     background-color: rgb(62, 94, 121);
+    
+ }
+ .about{
+     background-color: #A8CEF5;
+ }
+ 
